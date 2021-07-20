@@ -39,3 +39,23 @@ Lerna 使用
 
     发布
         lerna publish
+
+
+
+    git remote add origin https://github.com/songqian2018/lg-element.git
+
+    git push -u origin master
+
+
+
+    npm whoami
+
+
+    npm adduser
+
+    npm config get registry
+
+    yarn lerna
+
+    npm login
+
